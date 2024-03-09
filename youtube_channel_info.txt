@@ -2,4 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Altamonte SDA | Entertainment | https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/USVA_headstone_emb-40.svg/268px-USVA_headstone_emb-40.svg.png | https://www.youtube.com/live/iqL2NTS_vlc?si=5A_WD5QipNtLsfmz
+Altamonte SDA | Entertainment | https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/USVA_headstone_emb-40.svg/268px-USVA_headstone_emb-40.svg.png | 
+https://www.youtube.com/@altamontespringssdachurch1999/live
